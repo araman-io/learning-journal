@@ -3,9 +3,12 @@
 * [[vertx]]
 
 ## Backlog
-* [ ] explore vertx ecosystem
-* [ ] refactor vertx wiki guide implementation to work with v4.2.x
-* [ ] kafka streaming apps
-* [ ] testcontainers.org
+* [[OAUTH]]
+  * fundamental OAUTH 2.0 flow
+  * Differences from SSO
+  * Difference with JWT
+  * Does OAuth support delegatingauthorization to other authorization services
+  
 
+* 
 ## Completed
