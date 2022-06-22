@@ -2,7 +2,7 @@ set nowritebackup
 set nobackup
 set nocompatible
 set noundofile
-set hlssearch
+set hlsearch
 
 filetype plugin on
 syntax on
