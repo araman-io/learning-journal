@@ -1,1 +1,1 @@
-[A](A) small collection of dotfiles I use on my devices
+A small collection of dotfiles I use on my devices
