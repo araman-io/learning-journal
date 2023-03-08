@@ -1,1 +1,7 @@
 Compress pdf using this https://github.com/theeko74/pdfc
+
+
+
+```
+gs -q -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sOutputFile=merged.pdf <<filenames>>
+```
