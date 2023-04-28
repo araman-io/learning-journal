@@ -1,3 +1,4 @@
+set guifont=Lucida_Console:h9
 set nowritebackup
 set nobackup
 set nocompatible
